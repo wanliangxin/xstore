@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[xstore产品博客]]></title>
+  <link href="blog.xstore.vip/atom.xml" rel="self"/>
+  <link href="blog.xstore.vip/"/>
+  <updated>2019-08-23T10:59:51+08:00</updated>
+  <id>blog.xstore.vip/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[* 腾讯云账户账号ID：100000857473]]></title>
+    <link href="blog.xstore.vip/15635510887843.html"/>
+    <updated>2019-07-19T23:44:48+08:00</updated>
+    <id>blog.xstore.vip/15635510887843.html</id>
+    <content type="html"><![CDATA[
+<ul>
+<li>平台名称:  广州小碗粥科技公司</li>
+<li>平台官网地址：www.xstore.vip</li>
+<li><p>平台回调地址：oauth.xstore.vip/oauth</p></li>
+<li><p>小程序报名后后台管理没有显示报名信息</p></li>
+<li><p>内容编辑完之后需要显示内容更新时间</p></li>
+<li><p>小程序客服发送小程序卡片后没有回复二维码</p></li>
+<li><p>学院介绍去掉新建按钮</p></li>
+<li><p>编辑文章是将头图和标签选择移到标题下方</p></li>
+<li><p>导入文章功能增加标题编辑和头图编辑</p></li>
+<li><p>登录时收不到验证码</p></li>
+<li><p>新闻活动、招生动态逆序显示已发布内容，未发布内容页面不显示</p></li>
+<li><p>系统管理若用户无登录时间显示“——”，目前显示Invalid date</p></li>
+<li><p>编辑文章时图片上传后显示错误</p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
